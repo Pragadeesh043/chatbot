@@ -1,0 +1,51 @@
+product_id,product_name,category,price,availability,description
+PROD001,Wireless Mouse,Electronics,799,In Stock,Ergonomic wireless mouse with high precision tracking.
+PROD002,USB-C Charger,Accessories,599,In Stock,Fast-charging USB-C power adapter suitable for various devices.
+PROD003,Noise Cancelling Headphones,Electronics,2999,Limited Stock,Over-ear headphones with superior noise cancellation.
+PROD004,Bluetooth Speaker,Electronics,1499,Out of Stock,Portable Bluetooth speaker with deep bass and stereo sound.
+PROD005,Smartwatch,Wearable Tech,3999,In Stock,Advanced smartwatch with heart rate monitoring and GPS.
+PROD006,Keyboard,Electronics,999,In Stock,Mechanical keyboard with customizable RGB lighting.
+PROD007,Phone Case,Accessories,299,In Stock,Shockproof phone case with slim and stylish design.
+PROD008,Laptop Stand,Accessories,1299,In Stock,Adjustable laptop stand for ergonomic workspace setup.
+PROD009,Wireless Earbuds,Electronics,2499,In Stock,True wireless earbuds with active noise cancellation.
+PROD010,Tablet Cover,Accessories,899,In Stock,Durable tablet case with stand functionality.
+PROD011,Gaming Mouse,Electronics,1799,Limited Stock,Precision gaming mouse with adjustable DPI.
+PROD012,Portable Hard Drive,Electronics,4999,In Stock,1TB external hard drive with high-speed data transfer.
+PROD013,Smartphone,Mobile,25999,Limited Stock,Flagship smartphone with OLED display and powerful processor.
+PROD014,Monitor Stand,Accessories,1999,In Stock,Adjustable monitor riser for ergonomic setup.
+PROD015,Mechanical Keyboard,Electronics,3499,In Stock,Customizable mechanical keyboard with hot-swappable switches.
+PROD016,Webcam,Electronics,1499,Out of Stock,Full HD webcam with wide-angle lens for video conferencing.
+PROD017,Wireless Charging Pad,Accessories,799,In Stock,Fast wireless charger for Qi-enabled devices.
+PROD018,Noise Cancelling Earbuds,Electronics,3299,Limited Stock,Compact earbuds with superior noise isolation.
+PROD019,Smart LED Bulbs,Home Tech,1299,In Stock,Smart bulbs with adjustable color and voice control.
+PROD020,USB Flash Drive,Accessories,499,In Stock,High-speed USB drive with 128GB capacity.
+PROD021,Portable Speaker,Electronics,2899,Limited Stock,Water-resistant Bluetooth speaker with rich sound.
+PROD022,Smart Thermostat,Home Tech,9999,In Stock,AI-powered thermostat with energy-saving mode.
+PROD023,Phone Tripod,Accessories,1199,In Stock,Flexible tripod for stable phone photography.
+PROD024,VR Headset,Electronics,14999,Limited Stock,Virtual reality headset for immersive gaming experiences.
+PROD025,Wireless Router,Networking,4999,In Stock,High-speed Wi-Fi router with extended range.
+PROD026,Smart Door Lock,Home Tech,8999,Limited Stock,Keyless smart lock with fingerprint recognition.
+PROD027,External SSD,Storage,5999,In Stock,Ultra-fast NVMe SSD with 1TB storage.
+PROD028,Smartwatch Strap,Wearable Tech,999,In Stock,Premium smartwatch bands available in multiple colors.
+PROD029,Gaming Headset,Electronics,4999,Out of Stock,Surround sound gaming headset with noise-canceling microphone.
+PROD030,Bluetooth Smart Glasses,Wearable Tech,12999,Limited Stock,Smart glasses with built-in speakers and voice control.
+PROD031,Smart Coffee Maker,Home Tech,4999,In Stock,Wi-Fi enabled coffee maker with programmable brewing.
+PROD032,Wireless Doorbell,Home Tech,1999,Limited Stock,Smart doorbell with video recording and motion detection.
+PROD033,Electric Toothbrush,Personal Care,2999,In Stock,Rechargeable toothbrush with multiple cleaning modes.
+PROD034,Smart Air Purifier,Home Tech,7999,Out of Stock,AI-powered air purifier with real-time air quality monitoring.
+PROD035,Portable Blender,Kitchen,2499,In Stock,USB rechargeable blender for smoothies and shakes.
+PROD036,Smart Water Bottle,Fitness,1999,Limited Stock,Hydration tracking bottle with temperature display.
+PROD037,Wireless Security Camera,Home Tech,8999,In Stock,HD security camera with night vision and motion alerts.
+PROD038,Smart Bike Lock,Outdoor,3999,In Stock,Bluetooth-enabled bike lock with anti-theft alarm.
+PROD039,Digital Drawing Tablet,Electronics,9999,Limited Stock,Professional drawing tablet with pressure-sensitive stylus.
+PROD040,Smart Alarm Clock,Home Tech,2999,In Stock,Voice-controlled alarm clock with sunrise simulation.
+PROD041,Portable Projector,Electronics,12999,Out of Stock,Compact projector with HD resolution and wireless streaming.
+PROD042,Smart Pet Feeder,Pet Care,5999,In Stock,Automated pet feeder with scheduled meal dispensing.
+PROD043,Wireless Barcode Scanner,Office,3499,Limited Stock,Handheld barcode scanner with Bluetooth connectivity.
+PROD044,Smart Mirror,Home Tech,14999,In Stock,Interactive mirror with fitness tracking and weather updates.
+PROD045,Noise-Isolating Gaming Chair,Furniture,19999,Limited Stock,Ergonomic gaming chair with built-in speakers.
+PROD046,Smart Plant Sensor,Gardening,2999,In Stock,Monitors soil moisture and sunlight for optimal plant care.
+PROD047,Portable Solar Charger,Outdoor,4999,Limited Stock,High-efficiency solar charger for mobile devices.
+PROD048,Smart Refrigerator,Home Tech,59999,Out of Stock,Wi-Fi enabled fridge with touchscreen and inventory tracking.
+PROD049,Wireless Car Vacuum,Automotive,3999,In Stock,Compact vacuum cleaner for car interiors with strong suction.
+PROD050,Smart Fitness Tracker,Wearable Tech,7999,Limited Stock,Advanced fitness tracker with heart rate and sleep monitoring.

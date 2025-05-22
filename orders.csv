@@ -1,0 +1,49 @@
+order_id,product_name,status,expected_delivery_date,amount
+ORD123,Wireless Mouse,Shipped,2025-05-16,799
+ORD124,USB-C Charger,Processing,2025-05-18,599
+ORD125,Noise Cancelling Headphones,Delivered,2025-05-10,2999
+ORD126,Bluetooth Speaker,Cancelled,,1499
+ORD127,Smartwatch,Out for Delivery,2025-05-13,3999
+ORD128,Keyboard,Returned,,999
+ORD129,Phone Case,Pending,2025-05-20,299
+ORD130,Laptop Stand,Delivered,2025-05-11,1299
+ORD131,Wireless Earbuds,Processing,2025-05-19,2499
+ORD132,Tablet Cover,Shipped,2025-05-17,899
+ORD133,Gaming Mouse,Delivered,2025-05-12,1799
+ORD134,Portable Hard Drive,Out for Delivery,2025-05-14,4999
+ORD135,Smartphone,Pending,2025-05-22,25999
+ORD136,Monitor Stand,Cancelled,,1999
+ORD137,Mechanical Keyboard,Shipped,2025-05-16,3499
+ORD138,Webcam,Processing,2025-05-21,1499
+ORD139,Wireless Charging Pad,Returned,,799
+ORD140,Noise Cancelling Earbuds,Delivered,2025-05-11,3299
+ORD141,Smart LED Bulbs,Out for Delivery,2025-05-15,1299
+ORD142,USB Flash Drive,Pending,2025-05-23,499
+ORD143,Portable Speaker,Shipped,2025-05-18,2899
+ORD144,Smart Thermostat,Processing,2025-05-20,9999
+ORD145,Phone Tripod,Delivered,2025-05-13,1199
+ORD146,VR Headset,Shipped,2025-05-19,14999
+ORD147,Wireless Router,Processing,2025-05-21,4999
+ORD148,Smart Door Lock,Delivered,2025-05-14,8999
+ORD149,External SSD,Out for Delivery,2025-05-16,5999
+ORD150,Smartphone Stand,Pending,2025-05-24,699
+ORD151,Noise Cancelling Headphones,Cancelled,,3499
+ORD152,AI-Powered Smartwatch,Shipped,2025-05-20,8999
+ORD153,Smart Wi-Fi Plug,Processing,2025-05-23,1199
+ORD154,USB Hub,Returned,,1299
+ORD155,Wireless Gaming Controller,Delivered,2025-05-15,5499
+ORD156,Streaming Camera,Out for Delivery,2025-05-17,6999
+ORD157,Tablet Stylus,Pending,2025-05-25,1599
+ORD158,LED Monitor,Shipped,2025-05-22,15999
+ORD159,Mechanical Keyboard,Processing,2025-05-26,5999
+ORD160,Smart Security Camera,Delivered,2025-05-18,7999
+ORD161,Portable Power Bank,Out for Delivery,2025-05-19,2999
+ORD162,Phone Screen Protector,Pending,2025-05-27,499
+ORD163,USB-C Docking Station,Cancelled,,3999
+ORD164,Noise Cancelling Earbuds,Returned,,1999
+ORD165,Gaming Headset,Shipped,2025-05-21,4999
+ORD166,Bluetooth Smart Glasses,Processing,2025-05-28,12999
+ORD167,VR Motion Controller,Delivered,2025-05-20,7499
+ORD168,Smart Desk Lamp,Out for Delivery,2025-05-22,2999
+ORD169,Laptop Cooling Pad,Pending,2025-05-29,1999
+ORD170,Wireless Fitness Tracker,Cancelled,,9999
